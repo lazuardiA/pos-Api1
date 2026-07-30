@@ -12,4 +12,4 @@ database_id = "a6511388-d37f-458f-a65a-20ad5be3ef85"
 
 [vars]
 JWT_SECRET = "ganti_dengan_secret_key_yang_sangat_rahasia"
-CLIENT_ORIGIN = "*"
+CLIENT_ORIGIN = "RAHASIA_NEGARA_POS_API_2026_!#$"
