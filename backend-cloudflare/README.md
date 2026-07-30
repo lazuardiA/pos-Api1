@@ -106,3 +106,10 @@ npm run deploy
 - Sesi login dikelola menggunakan **JWT**, ditandatangani menggunakan `JWT_SECRET` yang kamu atur.
 - Validasi input dilakukan di setiap route sebelum data disimpan ke database.
 - Koneksi ke database D1 hanya bisa dilakukan dari dalam Worker (lewat binding), tidak bisa diakses langsung dari front-end.
+
+
+
+
+link front end  ;https://pos-apifrontend.rakamada45.workers.dev
+
+
