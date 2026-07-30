@@ -11,5 +11,5 @@ database_name = "gymbooking-db"
 database_id = "a6511388-d37f-458f-a65a-20ad5be3ef85"
 
 [vars]
-JWT_SECRET = "RAHASIA_NEGARA_POS_API_2026_!#$"
+JWT_SECRET = RAHASIA_NEGARA_POS_API_2026_!#$
 CLIENT_ORIGIN = "*"
