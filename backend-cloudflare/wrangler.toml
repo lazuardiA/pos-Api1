@@ -1,0 +1,15 @@
+name = "gymbooking-backend"
+main = "src/index.js"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Ganti database_id dengan ID D1 database kamu sendiri
+# (didapat setelah menjalankan: wrangler d1 create gymbooking-db)
+[[d1_databases]]
+binding = "DB"
+database_name = "gymbooking-db"
+database_id = "GANTI_DENGAN_DATABASE_ID_KAMU"
+
+[vars]
+JWT_SECRET = "ganti_dengan_secret_key_yang_sangat_rahasia"
+CLIENT_ORIGIN = "*"
