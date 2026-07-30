@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 [[d1_databases]]
 binding = "DB"
 database_name = "gymbooking-db"
-database_id = "GANTI_DENGAN_DATABASE_ID_KAMU"
+database_id = "a6511388-d37f-458f-a65a-20ad5be3ef85"
 
 [vars]
 JWT_SECRET = "ganti_dengan_secret_key_yang_sangat_rahasia"
