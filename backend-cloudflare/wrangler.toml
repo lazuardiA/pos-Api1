@@ -10,6 +10,7 @@ binding = "DB"
 database_name = "gymbooking-db"
 database_id = "a6511388-d37f-458f-a65a-20ad5be3ef85"
 
+
 [vars]
 JWT_SECRET = "RAHASIANEGARAPOSAPI2026"
 CLIENT_ORIGIN = "*"
